@@ -13,6 +13,9 @@ https://nipy.org/nibabel/nifti_images.html
 
 ./vim3/crcns_vim-3/data/ p1001-p1011
 nii and npy file
+
+new discover
+https://nilearn.github.io/auto_examples/plot_nilearn_101.html
 """
 # In[1]:
 import numpy as np
